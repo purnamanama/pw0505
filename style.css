@@ -1,0 +1,79 @@
+.header{
+	margin: 0 auto;
+	width: 900px;
+	height: 120px;
+	background-color: #c9af98;
+}
+.header h1{
+	font-family: serif;
+	color: #efeeee;
+	background-color: #3a4660;
+	padding: 10px 5px;
+	float: right;
+	width: 400px;
+	margin-top: 10px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+.header h1 small{
+	font-family: serif;
+	color: white;
+	font-size: 20px;
+}
+
+.menu {
+	margin: 0 auto;
+	width: 900px;
+	height: 45px;
+	border-top: 5px solid #c9af98;
+	background: #efeeee;
+	font-size: 15px;
+	text-align: center;
+}
+
+.menu ul li {
+	display: inline;
+}
+
+.menu li a{
+	margin: 20px 10px;
+	padding-bottom: 5px;
+	color: #3a4660;
+}
+
+.menu li a:hover{
+	color: #c9af98;
+	border-bottom: 5px solid #efeeee;
+}
+
+.content{
+	margin: 0 auto;
+	width: 880px;
+	height: 960px;
+	background-color:#3a4660;
+	padding: 10px;
+}
+
+.c1{
+	float: left;
+	margin: 10px;
+	width: 860px;
+	height: 280px;
+	background-color: #c9af98;
+}
+
+.c2{
+	float: left;
+	margin: 10px;
+	width: 860px;
+	height: 280px;
+	background-color: #efeeee;
+}
+
+.c3{
+	float: left;
+	margin: 10px;
+	width: 860px;
+	height: 280px;
+	background-color: #c9af98;
+}
